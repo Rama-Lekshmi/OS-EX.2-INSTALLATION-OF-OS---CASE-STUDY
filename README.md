@@ -1,4 +1,4 @@
-# OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
+## OS-EX.2-INSTALLATION-OF-OS---CASE-STUDY
 
 ## AIM:
 To install an operating system using virtual box
